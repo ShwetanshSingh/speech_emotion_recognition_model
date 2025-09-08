@@ -1,0 +1,1 @@
+[Kaggle notebook](https://www.kaggle.com/code/shivamburnwal/speech-emotion-recognition/notebook)
