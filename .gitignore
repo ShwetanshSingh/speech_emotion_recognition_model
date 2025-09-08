@@ -9,5 +9,8 @@ wheels/
 # Virtual environments
 .venv
 
+# Test files
+speech-emotion-recognition.ipynb
+
 # Datasets
 datasets/
