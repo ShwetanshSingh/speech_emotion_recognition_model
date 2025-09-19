@@ -12,5 +12,8 @@ wheels/
 # Test files
 speech-emotion-recognition.ipynb
 
+# Saved models
+saved_models/
+
 # Datasets
 datasets/
